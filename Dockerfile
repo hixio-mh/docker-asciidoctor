@@ -1,4 +1,4 @@
-FROM alpine:3.12
+FROM alpine:latest
 
 LABEL MAINTAINERS="Guillaume Scheibel <guillaume.scheibel@gmail.com>, Damien DUPORTAL <damien.duportal@gmail.com>"
 
